@@ -10,6 +10,11 @@
                 "debug"
             ],
             "port": 9229
+        },
+        {
+            "name": "Local Process with Kubernetes",
+            "type": "dev-spaces-connect-configuration",
+            "request": "launch"
         }
     ]
 }
